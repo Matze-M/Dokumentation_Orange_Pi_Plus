@@ -5,7 +5,7 @@
 ![Orange Pi Plus](OPi+.PNG) 
  
 1.Content   
-2.Hardware 
+2.Hardware       
 3.Linux   
 4.Android   
 5.H3droid  
