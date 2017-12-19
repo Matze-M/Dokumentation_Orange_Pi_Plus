@@ -2,7 +2,7 @@
 ## It is not Complete
 ## If you found an Issue or make changes, send me Pull request. 
 
-![Orange Pi +](OPI+.png) 
+![Orange Pi +](OPi+.png) 
  
 1.Content  
 
