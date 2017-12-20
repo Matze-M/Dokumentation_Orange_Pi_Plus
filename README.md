@@ -12,14 +12,14 @@
 
 # Orange Pi™ ist eine eingetragene Marke der Shenzhen Xunlong Software CO., Limited  
 # Hinweis:
-# Der Autor übernimmt keine Haftung für Schäden und damit verbundene Verluste.
-# Der Autor hat auf den Inhalt der in diesem Dokument verwiesenen Webseiten
-# keinen Einfluss und übernimmt keine Haftung für die Benutzung der Webseiten.
-# Die Nutzung der vorgestellten Software erfolgt auf eigene Gefahr, der Autor
-# übernimmt keine Haftung für Schäden aller Art die mit der Nutzung der Software
-# entstehen können., ferner übernimmt der Autor keine Haftung für
-# Schäden an Hardware, Menschen und Tieren. Diese Dokumentation ist nach bestem
-# wissen und gewissen geschrieben worden.  
+### Der Autor übernimmt keine Haftung für Schäden und damit verbundene Verluste.
+### Der Autor hat auf den Inhalt der in diesem Dokument verwiesenen Webseiten
+### keinen Einfluss und übernimmt keine Haftung für die Benutzung der Webseiten.
+### Die Nutzung der vorgestellten Software erfolgt auf eigene Gefahr, der Autor
+### übernimmt keine Haftung für Schäden aller Art die mit der Nutzung der Software
+### entstehen können., ferner übernimmt der Autor keine Haftung für
+### Schäden an Hardware, Menschen und Tieren. Diese Dokumentation ist nach bestem
+### wissen und gewissen geschrieben worden.  
 
 ### Inhaltsverzeichnis
 1. Einführung 
@@ -86,26 +86,34 @@ Die jeweilige Software die man benötigt, ist davon abhängig welches Betriebsys
 Rechner benutzt und welches Betriebsystem man auf dem Orange Pi Plus Laufen lassen möchte, so
 benötigt ein Nutzer welcher Android nutzen möchte andere Tools&Software als ein Nutzer welcher
 ein Linux benutzen möchte.
-Software für Windows:
+
+## Software für Windows:
 Zum Vorbereiten einer SD Karte unter Windows:
-H2testw: Ist ein Tool welches überprüft ob ein Speichermedieum (In diesem fall eine SD Karte)
+### H2testw:
+Ist ein Tool welches überprüft ob ein Speichermedieum (In diesem fall eine SD Karte)
 fehlerhafte Sektoren aufweist. Also ob sie noch für den Einsatz als Speichermedium geeignet ist.
-SD Card Formatter: Diese Software wird von der SD Association herausgegeben, um SD Karten
+### SD Card Formatter:
+Diese Software wird von der SD Association herausgegeben, um SD Karten
 zu formatieren (Die Standard Windows Formatierfunktion ist dazu nicht geeignet) und sie somit
 zum Brennen eines Software Images vorzubereiten. (Ist auch für Mac OS verfügbar)
-Um Linux unter Windows zu Installieren:
-DiskImager32: Brennt .ISO und .Img Dateien auf SD Karten, CD Roms und USB Sticks.
+
+### DiskImager32:
+Brennt .ISO und .Img Dateien auf SD Karten, CD Roms und USB Sticks.
 (Wichtig ist für uns das er Imagedateien auf SD Karten brennen kann)
-Etcher: Etcher ist ein Opensourche Tool welches das Brennen von .Img und .ISO Dateien
+### Etcher: 
+Etcher ist ein Opensourche Tool welches das Brennen von .Img und .ISO Dateien
 ermöglicht, ist jedoch weiterentwickelter ist als DiskImager32. (Auch verfügbar für Linux und Mac
 OS) Download: https://Etcher.io (Achtung externer Link !)
+
 Um Android unter Windows zu installieren:
-Livesuit: Da Android anders installiert als zb: Linux sind die gängigen tools nicht in der Lage
+
+### Livesuit:
+Da  man Android anders installieren muss als zb: Linux sind die gängigen tools nicht in der Lage
 Bootfähige Android Images auf SD karten oder auf emmc Speicher zu schreiben. Livesuit ist dazu
 in der Lage.
-Software für Linux:
+# Software für Linux:
 Zum Brennen von Linux Images:
-Etcher: (Siehe oben)
-dd: Auf Debian und Ubuntu basierten Systemen installieren via „sudo apt-get install dd“ Befehl.
+### Etcher: (Siehe oben)
+### dd: Auf Debian und Ubuntu basierten Systemen installieren via „sudo apt-get install dd“ Befehl.
 Zum Brennen von Android Images:
-Livesuit: (Siehe oben )
+### Livesuit: (Siehe oben )
