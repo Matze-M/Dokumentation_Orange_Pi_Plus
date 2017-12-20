@@ -113,7 +113,10 @@ Bootfähige Android Images auf SD karten oder auf emmc Speicher zu schreiben. Li
 in der Lage.
 # Software für Linux:
 Zum Brennen von Linux Images:
-### Etcher: (Siehe oben)
-### dd: Auf Debian und Ubuntu basierten Systemen installieren via „sudo apt-get install dd“ Befehl.
+### Etcher: 
+(Siehe oben)
+### dd: 
+Auf Debian und Ubuntu basierten Systemen installieren via „sudo apt-get install dd“ Befehl.
 Zum Brennen von Android Images:
-### Livesuit: (Siehe oben )
+### Livesuit: 
+(Siehe oben )
