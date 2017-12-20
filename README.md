@@ -101,9 +101,15 @@ zum Brennen eines Software Images vorzubereiten. (Ist auch für Mac OS verfügba
 Brennt .ISO und .Img Dateien auf SD Karten, CD Roms und USB Sticks.
 (Wichtig ist für uns das er Imagedateien auf SD Karten brennen kann)
 ### Etcher: 
+
 Etcher ist ein Opensourche Tool welches das Brennen von .Img und .ISO Dateien
 ermöglicht, ist jedoch weiterentwickelter ist als DiskImager32. (Auch verfügbar für Linux und Mac
 OS) Download: https://Etcher.io (Achtung externer Link !)
+
+![Etcher](Etcher.png "Etcher")
+#### Bildlizenz: resin-io, Etcher-1.0, CC BY-SA 4.0
+Quelle:https://upload.wikimedia.org/wikipedia/commons/c/c0/Etcher-1.0.png
+Lizenz: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 Um Android unter Windows zu installieren:
 
